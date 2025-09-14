@@ -1,2 +1,2 @@
-# Hyacinthejunior-Kengne-tp1-int-web-2
+# Hyacinthejunior-Kengne-tp1B-int-web-2
 Olivier Tremblay
